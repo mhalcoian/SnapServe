@@ -1,0 +1,9 @@
+.users{
+    background-color: white;
+    grid-row: 0;
+    grid-column: 0;
+    height: 991px;
+    width: 1030px;
+    margin: 16px;
+    border-radius: 10px;
+}
