@@ -41,6 +41,9 @@ function Dashboard(){
      <div className='statistics'>
 
      </div>
+     <div className='content'>
+
+     </div>
     </div>
     
 }
