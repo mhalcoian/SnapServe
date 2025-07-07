@@ -1,0 +1,32 @@
+.vendors-content{
+    grid-area: content;
+    display: grid;
+    grid-template-columns: 542px;
+    grid-template-rows: 83px; 
+}
+
+.vendor{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 44px;
+    width: 1010px;
+    margin:26px 0px 0px 36px;
+}
+.vendor-btn
+{
+   background-color: #2F80ED;
+   color: white;
+   height: 44px;
+   width: 186px;
+}
+.view-vendors{
+    background-color: white;
+    grid-row: 2;
+    grid-column: 1;
+    height: 900px;
+    width: 1030px;
+    margin: 16px;
+    border-radius: 10px;
+
+}
